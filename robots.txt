@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Mahek721.github.io/resources-j4w8pd/sitemap.xml
